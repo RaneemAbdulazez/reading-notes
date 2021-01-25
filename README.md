@@ -20,13 +20,14 @@
   
   ---
   
- here is three things I do to remind me of `growth mindset`: 
+ here is three things I do to remind me of `growth mindset `:  
  
-     -hangout with success people  : they absoulty have growth mindset and that's why they became success . 
+ 
+- hangout with success people  : they absoulty have growth mindset and that's why they became success . 
 
-     -Reminding myself always : it's normal to have obstcales , it's normal not to know everything , experience is built not over time but over the numbers of tryies you did . 
+- Reminding myself always : it's normal to have obstcales , it's normal not to know everything , experience is built not over time but over the numbers of tryies you did . 
 
-     -Feel enthusiastic about challenges 
+- Feel enthusiastic about challenges 
 
  
  
