@@ -5,7 +5,7 @@ Here are the labs we are doing in ASAC :
 
 | Lab NO | Link                                                 |
 | :----  |  ----:                                               |
-| Lab02  | [link](/home/raneem/codefellows/reading-notes/lab02) |
+| Lab02  | [link](lab02.md) |
 
 
 
