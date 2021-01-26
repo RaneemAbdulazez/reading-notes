@@ -29,11 +29,11 @@
 
 ------
 # Chapter 8
--
-- <!--and -->
-- iframes 
--
--
->
->
->
+-HTML has develped many times : 
+we had html in 1997 and the last one is html 5 in 2000
+- Doctype is used to select the html version 
+- we write comments like this <!--comment -->
+-Attribute : has name and value
+- The <meta> element lives inside the <head> element and contains information about that web page.
+- the copyright symbol : &copy 
+
