@@ -29,7 +29,7 @@
 
 ------
 # Chapter 8
--HTML has develped many times : 
+- HTML has develped many times : 
 we had html in 1997 and the last one is html 5 in 2000
 - Doctype is used to select the html version 
 - we write comments like this <!--comment -->
