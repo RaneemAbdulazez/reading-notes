@@ -10,3 +10,4 @@ Here are the labs we are doing in ASAC :
 | read03 | [link](Read3a.md)                                    |
 | read04 | [link](read04.md)                                    |
 |read05  | [link](read5.md)                                     |
+|read06  | [link](read6.md)                                    |      
