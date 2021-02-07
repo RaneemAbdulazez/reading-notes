@@ -30,7 +30,7 @@ like this :
 ~~~
 '<a>', '<b>', '<em>', and '<img>'.
 ~~~
-###### GroupinG text & elementd in a bloCk
+### GroupinG text & elementd in a bloCk
 > div element allows you to The <div> element allows you to group a set of elements together in one block-level box.
 
 > ```<span>```
