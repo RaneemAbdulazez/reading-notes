@@ -1,4 +1,5 @@
 # What is HTML used for ? 
+
 HTML is used to make the structure of page but **What is a structure ?**
 
 it's The use of headings andsubheadings in any document often reflects a hierarchy of information. 
@@ -22,19 +23,25 @@ like this :
 >id atribute : allows us to specify an element  with a name in html page .
 >class atribute : allows us to specify a group of elements  with a name in html page 
 >Examples of block elements are
-<h1>, <p>, <ul>, and <li>
+~~~
+'<h1>', '<p>', '<ul>', and '<li>'
+~~~
 >Examples of inline elements are
-<a>, <b>, <em>, and <img>.
-
+~~~
+'<a>', '<b>', '<em>', and '<img>'.
+~~~
 ###### GroupinG text & elementd in a bloCk
 > div element allows you to The <div> element allows you to group a set of elements together in one block-level box.
 
-> <span> element acts like
-<div> but It is used to when : 1. Contain a section of text
+> ```<span>```
+element acts like
+``` <div>  ```
+ but It is used to when : 1. Contain a section of text
 where there is no other suitable element to differentiate it from
 its surrounding text  or to contain a number of inline elements
-> <iframe> like a little windowthat has been cut into your page .
-><meta> inside the <head> element and contains information about your page.
+>  ```<iframe>``` 
+ike a little windowthat has been cut into your page .
+>```<meta>``` inside the ```<head>``` element and contains information about your page.
 
 
 #### 428-451
@@ -44,12 +51,12 @@ The new layout :
 
 what considered as new in this Read : 
 
->The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated
-> The <aside>  element depends on whether it is inside an <article> element or not, for exampleWhen the <aside> element is used outside of an <article>
+>The ```<article>```  element acts as a container for any section of a page that could stand alone and potentially be syndicated
+> The ```<aside>```  element depends on whether it is inside an ```<article>``` element or not, for exampleWhen the ```<aside>``` element is used outside of an ```<article>```
 element, it acts as a container, but when it's inside  it should contain
 information that is related to the article but not essential to its
 overall meaning. 
->The <section> element groups related things together.
+>The ```<section>``` element groups related things together.
 
 
 
@@ -94,8 +101,8 @@ the information you present
  ## writing a script : 
 
  Before you wirte a script you should set a goal and lsit tasks to achive it ! 
-> Define the GOAL >> Design the SCRIPT >> CODE 
->You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them , ** doing a flowchart will help you! **
+> Define the GOA  Design the SCRIPT >> CODE 
+> You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them ,  doing a flowchart will help you!
 
 
 -----
@@ -119,13 +126,13 @@ js : Keeping it separate means that the page still works if the user cannot load
 
 you can write js in the html file like this : 
 ---html---
-<script> code </script>
+```<script> code </script>```
 
 ---
 you can write js in seperate file like this : 
 
 ---html---
-<script src="js/add-content.jsM"></script>
+```<script src="js/add-content.jsM"></script>```
 
 ---
 
