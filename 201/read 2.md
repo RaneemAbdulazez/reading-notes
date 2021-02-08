@@ -82,7 +82,39 @@ visibility: hidden; \\ or visible}
 
 ```
 [BOXEXAMPLE](201/box example.md)
+ ------
 
+ # JavaScript 
+
+ - Comments : 
+ ```
+ /
+ /*this is multiline comment */
+
+ - Declare Variable : 
+ ```
+ var x='Hi';
+ // or 
+ let x='hi';
+
+
+ - Data Types :
+    -Numbers 
+    -string
+    -Bolean
+
+
+-ARRAY:
+You create an array and give it a name just like you would any
+other variable (using the var keyword followed by the name of
+the array)
+
+```
+var colors;
+colors = [ ' white ' , black ' , custom ' ] ;
+var el = document.getElementByldCcolors ' ) ;
+el . textContent = colors [0];
+```
 
 
 
