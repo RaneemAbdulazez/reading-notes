@@ -116,6 +116,18 @@ var el = document.getElementByldCcolors ' ) ;
 el . textContent = colors [0];
 ```
 
+# Loops 
+
+a loop is often used to loop through the items in an array thre are while and for loop .
+
+>The key difference between
+a whi 1e loop and a do whi 1e
+loop is that the statements in
+the code block come before the
+condition. This means that those
+statements are run once whether
+or not the condition is met.
+
 
 
 
