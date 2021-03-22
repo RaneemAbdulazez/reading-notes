@@ -39,8 +39,8 @@ Here are the reading we are doing in ASAC :
 
 | Lab NO | Link                                                 |
 | :----  |  ----:  
-| read1 | [link]                                  |
-| read2  | [link]                                  |
+| read1 | [link] (301/read1.md)                                 |
+| read2  | [link]  (301/read02.md)                                |
 | read3 | [link]                                 |
 | read4 | [link]                                   |
 | read5  | [link]                                    |
