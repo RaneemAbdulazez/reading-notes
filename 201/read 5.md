@@ -27,6 +27,7 @@ www.fotolia.com
 
 1: before a paragraph
 The paragraph starts on a new
+
 line after the image.
 
 

@@ -17,7 +17,7 @@ Here are the reading we are doing in ASAC :
 
 | Lab NO | Link                                                 |
 | :----  |  ----:  
-| read1 | [link](201/read 1.md)                                    |
+| read1 | [link](201/read1.md)                                    |
 | read2  | [link](201/read 2.md)                                     |
 | read3 | [link](201/read 3.md)                                    |
 | read4 | [link](201/read 4.md)                                    |
@@ -30,7 +30,7 @@ Here are the reading we are doing in ASAC :
 | read11 | [link](201/read 11.md)                                    |
 | read12 | [link](201/read 12.md)                                    |
 | read13 | [link](201/read 13.md)                                    |
-| read14 | [link](201/read 14.md)                                    |
+| read14 | [link](201/read14.md)                                    |
 | read15 | [link](201/read 15.md)                                    |
 
 
