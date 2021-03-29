@@ -43,7 +43,7 @@ Here are the reading we are doing in ASAC :
 | read4  | [link] (301/read04.md ) |
 | read5  |  [link] (301/read05.md) |
 | read6  |  [link] (301/read06.md) |
-| read7  |  [link] (301/read07.md) |
+| read7  |  [link](301/read07.md) |
 | read8  |  [link] (301/read08.md) |
 | read9  |  [link] (301/read09.md) |
 | read10 |  [link] (301/read10.md) |
