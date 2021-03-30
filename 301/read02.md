@@ -1,30 +1,14 @@
-# using Jquery we can select the elemnts
+# JQUERY 
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+# SELECT ELEMENTS
+Example:
+```
+$(‘l i em’) .addClass(‘seasonal ‘) ; $( ‘ li .hot’) .addClass(‘favorite’);
+```
 
 
-BASIC SELECTORS
-*
-element
-#id
-.class
-selectorl, selector2
-
-
-
-
-# HIERARCHY
-
-
-# BASIC FILTERS
-
-
-# Effects 
-
-
->When you start using jQuery, the effects methods can enhance your web
-page with transitions and movement.
-
-
-BASIC EFFECTS
+# BASIC EFFECTS
 METHOD DESCRIPTION
 . show () Displays selected elements
 .hi de () Hides selected elements
@@ -46,3 +30,29 @@ CUSTOM EFFECTS
 METHOD DESCRIPTION
 . delay() Delays execution of subsequent items in queue
 . stop() Stops an animation if it is currently running
+
+
+show () Displays selected elements
+
+hide() Hides selected elements
+
+toggle () Toggles between showing and hiding selected elements
+
+# SLIDING EFFECTS :
+
+slideUp () Shows selected elements with a sliding motion
+
+s1ide Down() Hides selected elements with a sliding motion
+
+s1ideToggle() Hides or shows selected elements with a sliding motion
+
+# CUSTOM EFFECTS :
+
+delay() Delays execution of subsequent items in queue
+
+stop() Stops an animation if it is currently running
+
+animate() Creates custom animations
+
+ANIMATING CSS
+The .animate() method allows you to create some of your own effects and animations by changing CSS properties.
