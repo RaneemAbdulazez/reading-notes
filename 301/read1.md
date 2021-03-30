@@ -1,3 +1,17 @@
+
+# SMACSS
+SMACSS is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process.
+
+ 
+
+There are five types of categories:
+
+Base. To define what an element should look like anywhere on the page. They are the defaults.
+Layout. To divide the page into major top-level sections.
+Module. Smaller bits of code that are reusable on the page, and they are part of a single layout.
+State. To describe how our modules look in different dynamic situations.
+Theme. To contain the rules of the primary colors, shapes, borders, shadows, and such.
+
 # Responsive vs. Adaptive vs. Mobile
 
 
