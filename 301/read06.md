@@ -1,8 +1,3 @@
-# Readings: NODE.JS
-
-*Today Topic will be a about*
-- NODE.JS
-
 ## NODE.JS
 
 ## What is NODE.JS ? 
