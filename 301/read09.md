@@ -50,6 +50,5 @@ The idea of map is to transform a collection. The map method transforms a collec
 The idea of reduce is to receive a function and a collection, and return a value created by combining the items.
 
 # Refactoring JavaScript for Performance and Readability
-![image](images/2d9c32n7.jpg)
 
 *Code Refactoring is the process of clarifying and simplifying the design of existing code, without changing its behavior. Agile teams are maintaining and extending their code a lot from iteration to iteration, and without continuous refactoring, this is hard to do.*
