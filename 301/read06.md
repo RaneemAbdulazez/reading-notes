@@ -1,7 +1,6 @@
 ## NODE.JS
 
 ## What is NODE.JS ? 
-![NODE.JS](images/nodejs-twt.png)
 
 *Node.js is a free of charge open-source server environment that runs on various platforms using modern JavaScript on the server. It is built on `Chrome’s V8` JavaScript engine. Node JS was designed to easily create fast and scalable web applications. It is well-scalable, because it relies on the non-blocking I/O model.*
 
@@ -10,7 +9,6 @@
 *ou can check that Node is installed on your system by opening a terminal and typing `node --v.` If all has gone well, you should see something like `v12.14.1`*
 
 ## Node.js advantages:
-![NODE.JSadvantages](images/blog-image-4.jpg)
 
 * Speed and scalability.
 * You can do everything in the same language.
@@ -18,7 +16,6 @@
 * JavaScript is ubiquitous.
 
 ## Why Node.js is so popular?
-![NODE.JSWhy](images/Why-use-Node.js.jpg)
 
 *One of the biggest reasons why Node.js benefits from increasing popularity is because it uses JavaScript programming language for app development. Since JavaScript is a language that most developers know, switching from any technology to Node.js is an easy task.*
 
