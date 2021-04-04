@@ -40,14 +40,14 @@ Here are the reading we are doing in ASAC :
 | read1  |   [link](301/read1.md) |
 | read2  |  [link](301/read02.md) |
 | read3  |  [link](301/read03.md) |
-| read4  | [link(301/read04.md ) |
+| read4  | [link](301/read04.md ) |
 | read5  |  [link](301/read05.md) |
 | read6  |  [link](301/read06.md) |
 | read7  |  [link](301/read07.md) |
 | read8  |  [link](301/read08.md) |
 | read9  |  [link](301/read09.md) |
 | read10 |  [link](301/read10.md) |
-| read11 |[link]|
+| read11 |[link]|(301/read11.md)
 | read12 |                  [link] |
 | read13 |                  [link] |
 | read14 |                  [link] |
