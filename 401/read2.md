@@ -1,9 +1,3 @@
-# Read: 02 - Readings: Testing and Modules
-
-*Today Topic will be a about*
-- Testing & Modules
-- Recursion
-
 ## Python Modules and Packages
 
 > What Is Python Modules:?
