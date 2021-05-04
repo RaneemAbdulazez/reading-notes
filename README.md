@@ -62,7 +62,7 @@ Here are the reading we are doing in ASAC :
 | Lab NO |                    Link |
 | :----- | ----------------------: |
 | read1  |   [Big O](401/Big-O.md) |
-| read2  |   |
+| read2  |  [Python Modules and Packages](401/read2.md) |
 | read3  |   |
 | read4  |   |
 | read5  |   |
