@@ -63,9 +63,9 @@ Here are the reading we are doing in ASAC :
 | :----- | ----------------------: |
 | read1  |   [Big O](401/Big-O.md) |
 | read2  |  [Python Modules and Packages](401/read2.md) |
-| read3  |   |
-| read4  |   |
-| read5  |   |
+| read3  |  [Reading and Writing Files in Python](401/read3.md) |
+| read4  | [Classes and Objects](401/read4.md)  |
+| read5  |  [linked Lists in Python](401/read5.md) |
 | read6  |   |
 | read7  |   |
 | read8  |   |
