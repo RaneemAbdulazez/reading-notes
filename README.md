@@ -67,7 +67,7 @@ Here are the reading we are doing in ASAC :
 | read4  | [Classes and Objects](401/read4.md)  |
 | read5  |  [linked Lists in Python](401/read5.md) |
 | read6  | [risk](401/read6.md)  |
-| read7  |   |
+| read7  |  [scope](401/read7.md) |
 | read8  |   |
 | read9  |   |
 | read10 |   |
