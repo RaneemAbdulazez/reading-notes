@@ -68,10 +68,10 @@ Here are the reading we are doing in ASAC :
 | read5  |  [linked Lists in Python](401/read5.md) |
 | read6  | [risk](401/read6.md)  |
 | read7  |  [scope](401/read7.md) |
-| read8  |   |
-| read9  |   |
-| read10 |   |
-| read11 |   |
+| read8  |   [list](401/read8.md)|
+| read9  |  [dunder methods](401/read8.md) |
+| read10 |   [Stacks](401/read10.md)|
+| read11 |   [numpy and jupyter](401/read11.md)|
 | read12 |   |
 | read13 |   |
 | read14 |   |
