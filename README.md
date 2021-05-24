@@ -72,7 +72,7 @@ Here are the reading we are doing in ASAC :
 | read9  |  [dunder methods](401/read8.md) |
 | read10 |   [Stacks](401/read10.md)|
 | read11 |   [numpy and jupyter](401/read11.md)|
-| read12 |   |
+| read12 |   [pandas](401/read12.md)|
 | read13 |   |
 | read14 |   |
 | read15 |   |
