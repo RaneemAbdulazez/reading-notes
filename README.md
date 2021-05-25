@@ -74,5 +74,5 @@ Here are the reading we are doing in ASAC :
 | read11 |   [numpy and jupyter](401/read11.md)|
 | read12 |   [pandas](401/read12.md)|
 | read13 | [linear regression](401/read13.md) |
-| read14 |   |
+| read14 | [matplotlib](401/read14.md)  |
 | read15 |   |
