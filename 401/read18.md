@@ -28,7 +28,6 @@ welcome to python course
 > What Is Cryptography?
 *A cryptographic algorithm, or cipher, is the mathematical function used for encryption/decryption.*
 
-![Cryptography](images/quantumexplainer3.2-01-10.jpg)
 
 There are two types of encryption:
 * Symmetric 
