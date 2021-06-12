@@ -24,7 +24,7 @@ you can use it on mac, windows ,linux
 Django web applications typically group the code that handles each of these steps into separate files:
 
 
-![](401/basic-django.png)
+![dj](basic_django.png)
 
 
 ### URLs:
