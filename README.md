@@ -76,5 +76,9 @@ Here are the reading we are doing in ASAC :
 | read13 | [linear regression](401/read13.md) |
 | read14 | [matplotlib](401/read14.md)  |
 | read15 | [trees](401/read15.md)  |
-| read16 | [machine learning](401/read16.md)  |
+| read16 | [machine learning](401/read16.md)|
+| read17 | [web scraping](401/read17.md)|
+| read18 | [Cryptography](401/read18.md)|
+| read19 | [Python Regular Expression](401/read19.md)|
+| read26 | [Django](401/read26.md)|
 
