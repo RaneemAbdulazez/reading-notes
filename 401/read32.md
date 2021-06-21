@@ -1,7 +1,6 @@
 
 > What Is Django DRF Permissions?
 
-![DjangoCURD](images/max1resdefault.jpg)
 
 
 *In DRF We can use the permissions to implement RBAC (Role-Based Access Control). Role-Based Access Control is an approach that restricts access to users based on their role. You can use Django’s authentication and authorization features to configure Role-Based Access Control.*
