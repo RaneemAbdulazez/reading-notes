@@ -1,7 +1,3 @@
-# React
-
-
-
 
 **Consider this variable declaration**
 `const element = <h1>Hello, world!</h1>;`
@@ -22,19 +18,18 @@ React doesn’t require using JSX, but most people find it helpful as a visual a
 ## Embedding Expressions in JSS
 In the example below, we declare a variable called name and then use it inside JSX by wrapping it in curly braces:
 
-
 ```
 const name = 'Josh Perez';
 const element = <h1>Hello, {name}</h1>;
-ReactDOM.render(
-  element,
+ReactDOM.render(element,
   document.getElementById('root')
-)
+);
+
 ```
-```
+
 You can put any valid JavaScript expression inside the curly braces in JSX. For example, 2 + 2, user.firstName, or formatName(user) are all valid JavaScript expressions.
 
-In the example below, we embed the result of calling a JavaScript function, formatName(user), into an <h1> element.
+In the example below, we embed the result of calling a JavaScript function, formatName(user), into an ```<h1>``` element.
 
 ```
 function formatName(user) {
@@ -68,3 +63,4 @@ function getGreeting(user) {
   }
   return <h1>Hello, Stranger.</h1>;
 }
+```
